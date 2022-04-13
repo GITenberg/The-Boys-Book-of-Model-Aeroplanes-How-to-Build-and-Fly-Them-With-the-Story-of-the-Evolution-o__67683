@@ -1,0 +1,35 @@
+_repo: The-Boys-Book-of-Model-Aeroplanes-How-to-Build-and-Fly-Them-With-the-Story-of-the-Evolution-o__67683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Francis A. (Francis Arnold)
+    aliases:
+    - Collins, Francis Arnold
+    - Collins, F. A. (Francis Arnold)
+    birthdate: 1873
+    deathdate: 1957
+    gutenberg_agent_id: '52002'
+    url: http://www.gutenberg.org/2009/agents/52002
+description: Illustrated with many photographs and diagrams by the author.
+gutenberg_issued: '2022-03-22'
+identifiers:
+  gutenberg: '67683'
+language: en
+pgterms:marc904: https://archive.org/details/boysbookofmodela00coll
+pgterms:marc905: 20201101041830collins
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Alan, Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Eveleigh Nash,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics'
+- !lcc 'TL'
+- !lcsh 'Airplanes -- Models'
+- GITenberg
+title: "The Boys' Book of Model Aeroplanes\r\nHow to Build and Fly Them: With the\
+  \ Story of the Evolution of the Flying Machine"
+url: http://www.gutenberg.org/ebooks/67683
