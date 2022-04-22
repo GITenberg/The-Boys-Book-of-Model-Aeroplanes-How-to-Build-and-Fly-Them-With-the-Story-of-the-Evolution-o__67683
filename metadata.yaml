@@ -1,5 +1,8 @@
 _repo: The-Boys-Book-of-Model-Aeroplanes-How-to-Build-and-Fly-Them-With-the-Story-of-the-Evolution-o__67683
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67683-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, Francis A. (Francis Arnold)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52002'
     url: http://www.gutenberg.org/2009/agents/52002
 description: Illustrated with many photographs and diagrams by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67683#The-Boys-Book-of-Model-Aeroplanes-How-to-Build-and-Fly-Them-With-the-Story-of-the-Evolution-o_
 gutenberg_issued: '2022-03-22'
 identifiers:
   gutenberg: '67683'
